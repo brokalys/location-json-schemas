@@ -4,8 +4,9 @@
   "repository": "git@github.com:brokalys/location-json-schemas.git",
   "author": "Matiss Janis Aboltins <matiss@mja.lv>",
   "license": "MIT",
-  "private": false,
+  "main": "index.js",
   "files": [
-  	"data/"
+    "data/",
+    "index.js"
   ]
 }
