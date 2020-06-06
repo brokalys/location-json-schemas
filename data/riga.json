@@ -8,7 +8,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "gid": 69, "name": "Āgenskalns", "id": "agenskalns" },
+      "properties": { "gid": 69, "name": "Āgenskalns", "id": "latvia-riga-agenskalns" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70,7 +70,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 116, "name": "Atgāzene", "id": "atgazene" },
+      "properties": { "gid": 116, "name": "Atgāzene", "id": "latvia-riga-atgazene" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -112,7 +112,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 115, "name": "Avoti", "id": "avoti" },
+      "properties": { "gid": 115, "name": "Avoti", "id": "latvia-riga-avoti" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -149,7 +149,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 114, "name": "Beberbeķi", "id": "beberbeki" },
+      "properties": { "gid": 114, "name": "Beberbeķi", "id": "latvia-riga-beberbeki" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -240,7 +240,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 113, "name": "Berģi", "id": "bergi" },
+      "properties": { "gid": 113, "name": "Berģi", "id": "latvia-riga-bergi" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -446,7 +446,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 112, "name": "Bieriņi", "id": "bierini" },
+      "properties": { "gid": 112, "name": "Bieriņi", "id": "latvia-riga-bierini" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -614,7 +614,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 111, "name": "Bišumuiža", "id": "bisumuiza" },
+      "properties": { "gid": 111, "name": "Bišumuiža", "id": "latvia-riga-bisumuiza" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -687,7 +687,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 110, "name": "Bolderāja", "id": "bolderaja" },
+      "properties": { "gid": 110, "name": "Bolderāja", "id": "latvia-riga-bolderaja" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -749,7 +749,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 109, "name": "Brasa", "id": "brasa" },
+      "properties": { "gid": 109, "name": "Brasa", "id": "latvia-riga-brasa" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -794,7 +794,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 108, "name": "Brekši", "id": "breksi" },
+      "properties": { "gid": 108, "name": "Brekši", "id": "latvia-riga-breksi" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -909,7 +909,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 107, "name": "Bukulti", "id": "bukulti" },
+      "properties": { "gid": 107, "name": "Bukulti", "id": "latvia-riga-bukulti" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1013,7 +1013,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 63, "name": "Buļļi", "id": "bulli" },
+      "properties": { "gid": 63, "name": "Buļļi", "id": "latvia-riga-bulli" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1192,7 +1192,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 106, "name": "Centrs", "id": "centrs" },
+      "properties": { "gid": 106, "name": "Centrs", "id": "latvia-riga-centrs" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1264,7 +1264,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 68, "name": "Čiekurkalns", "id": "ciekurkalns" },
+      "properties": { "gid": 68, "name": "Čiekurkalns", "id": "latvia-riga-ciekurkalns" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1330,7 +1330,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 61, "name": "Daugavgrīva", "id": "daugavgriva" },
+      "properties": { "gid": 61, "name": "Daugavgrīva", "id": "latvia-riga-daugavgriva" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1511,7 +1511,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 105, "name": "Dreiliņi", "id": "dreilini" },
+      "properties": { "gid": 105, "name": "Dreiliņi", "id": "latvia-riga-dreilini" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1631,7 +1631,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 104, "name": "Dzirciems", "id": "dzirciems" },
+      "properties": { "gid": 104, "name": "Dzirciems", "id": "latvia-riga-dzirciems" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1697,7 +1697,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 103, "name": "Dārzciems", "id": "darzciems" },
+      "properties": { "gid": 103, "name": "Dārzciems", "id": "latvia-riga-darzciems" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1752,7 +1752,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 60, "name": "Dārziņi", "id": "darzini" },
+      "properties": { "gid": 60, "name": "Dārziņi", "id": "latvia-riga-darzini" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1937,7 +1937,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 102, "name": "Grīziņkalns", "id": "grizinkalns" },
+      "properties": { "gid": 102, "name": "Grīziņkalns", "id": "latvia-riga-grizinkalns" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1973,7 +1973,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 101, "name": "Imanta", "id": "imanta" },
+      "properties": { "gid": 101, "name": "Imanta", "id": "latvia-riga-imanta" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2100,7 +2100,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 100, "name": "Iļģuciems", "id": "ilguciems" },
+      "properties": { "gid": 100, "name": "Iļģuciems", "id": "latvia-riga-ilguciems" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2155,7 +2155,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 99, "name": "Jaunciems", "id": "jaunciems" },
+      "properties": { "gid": 99, "name": "Jaunciems", "id": "latvia-riga-jaunciems" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2251,7 +2251,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 98, "name": "Jugla", "id": "jugla" },
+      "properties": { "gid": 98, "name": "Jugla", "id": "latvia-riga-jugla" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2369,7 +2369,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 97, "name": "Katlakalns", "id": "katlakalns" },
+      "properties": { "gid": 97, "name": "Katlakalns", "id": "latvia-riga-katlakalns" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2443,7 +2443,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 96, "name": "Kleisti", "id": "kleisti" },
+      "properties": { "gid": 96, "name": "Kleisti", "id": "latvia-riga-kleisti" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2626,7 +2626,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 95, "name": "Kundziņsala", "id": "kundzinsala" },
+      "properties": { "gid": 95, "name": "Kundziņsala", "id": "latvia-riga-kundzinsala" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2674,7 +2674,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 67, "name": "Ķengarags", "id": "kengarags" },
+      "properties": { "gid": 67, "name": "Ķengarags", "id": "latvia-riga-kengarags" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2718,7 +2718,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 66, "name": "Ķīpsala", "id": "kipsala" },
+      "properties": { "gid": 66, "name": "Ķīpsala", "id": "latvia-riga-kipsala" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2760,7 +2760,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 62, "name": "Mangaļsala", "id": "mangalsala" },
+      "properties": { "gid": 62, "name": "Mangaļsala", "id": "latvia-riga-mangalsala" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2998,7 +2998,7 @@
       "properties": {
         "gid": 94,
         "name": "Maskavas forstate",
-        "id": "maskavasForstate"
+        "id": "latvia-riga-maskavasForstate"
       },
       "geometry": {
         "type": "Polygon",
@@ -3047,7 +3047,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 93, "name": "Mežaparks", "id": "mezaparks" },
+      "properties": { "gid": 93, "name": "Mežaparks", "id": "latvia-riga-mezaparks" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3131,7 +3131,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 92, "name": "Mežciems", "id": "mezciems" },
+      "properties": { "gid": 92, "name": "Mežciems", "id": "latvia-riga-mezciems" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3206,7 +3206,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 91, "name": "Mīlgrāvis", "id": "milgravis" },
+      "properties": { "gid": 91, "name": "Mīlgrāvis", "id": "latvia-riga-milgravis" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3252,7 +3252,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 90, "name": "Mūkupurvs", "id": "mukupurvs" },
+      "properties": { "gid": 90, "name": "Mūkupurvs", "id": "latvia-riga-mukupurvs" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3367,7 +3367,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 89, "name": "Pleskodāle", "id": "pleskodale" },
+      "properties": { "gid": 89, "name": "Pleskodāle", "id": "latvia-riga-pleskodale" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3462,7 +3462,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 88, "name": "Purvciems", "id": "purvciems" },
+      "properties": { "gid": 88, "name": "Purvciems", "id": "latvia-riga-purvciems" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3515,7 +3515,7 @@
       "properties": {
         "gid": 87,
         "name": "Pētersala-Andrejsala",
-        "id": "petersalaAndrejsala"
+        "id": "latvia-riga-petersalaAndrejsala"
       },
       "geometry": {
         "type": "Polygon",
@@ -3563,7 +3563,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 86, "name": "Pļavnieki", "id": "plavnieki" },
+      "properties": { "gid": 86, "name": "Pļavnieki", "id": "latvia-riga-plavnieki" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3613,7 +3613,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 59, "name": "Rumbula", "id": "rumbula" },
+      "properties": { "gid": 59, "name": "Rumbula", "id": "latvia-riga-rumbula" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3746,7 +3746,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 85, "name": "Salas", "id": "salas" },
+      "properties": { "gid": 85, "name": "Salas", "id": "latvia-riga-salas" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3794,7 +3794,7 @@
       "properties": {
         "gid": 84,
         "name": "Sarkandaugava",
-        "id": "sarkandaugava"
+        "id": "latvia-riga-sarkandaugava"
       },
       "geometry": {
         "type": "Polygon",
@@ -3866,7 +3866,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 83, "name": "Skanste", "id": "skanste" },
+      "properties": { "gid": 83, "name": "Skanste", "id": "latvia-riga-skanste" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3912,7 +3912,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 64, "name": "Šķirotava", "id": "skirotava" },
+      "properties": { "gid": 64, "name": "Šķirotava", "id": "latvia-riga-skirotava" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4056,7 +4056,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 82, "name": "Spilve", "id": "spilve" },
+      "properties": { "gid": 82, "name": "Spilve", "id": "latvia-riga-spilve" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4129,7 +4129,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 81, "name": "Suži", "id": "suzi" },
+      "properties": { "gid": 81, "name": "Suži", "id": "latvia-riga-suzi" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4188,7 +4188,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 65, "name": "Šampēteris", "id": "sampeteris" },
+      "properties": { "gid": 65, "name": "Šampēteris", "id": "latvia-riga-sampeteris" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4234,7 +4234,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 80, "name": "Teika", "id": "teika" },
+      "properties": { "gid": 80, "name": "Teika", "id": "latvia-riga-teika" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4298,7 +4298,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 79, "name": "Torņakalns", "id": "tornakalns" },
+      "properties": { "gid": 79, "name": "Torņakalns", "id": "latvia-riga-tornakalns" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4346,7 +4346,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 78, "name": "Trīsciems", "id": "trisciems" },
+      "properties": { "gid": 78, "name": "Trīsciems", "id": "latvia-riga-trisciems" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4476,7 +4476,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 77, "name": "Vecdaugava", "id": "vecdaugava" },
+      "properties": { "gid": 77, "name": "Vecdaugava", "id": "latvia-riga-vecdaugava" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4509,7 +4509,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 76, "name": "Vecmilgrāvis", "id": "vecmilgravis" },
+      "properties": { "gid": 76, "name": "Vecmilgrāvis", "id": "latvia-riga-vecmilgravis" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4565,7 +4565,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 75, "name": "Vecpilsēta", "id": "vecpilseta" },
+      "properties": { "gid": 75, "name": "Vecpilsēta", "id": "latvia-riga-vecpilseta" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4596,7 +4596,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 74, "name": "Vecāķi", "id": "vecaki" },
+      "properties": { "gid": 74, "name": "Vecāķi", "id": "latvia-riga-vecaki" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4721,7 +4721,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 73, "name": "Voleri", "id": "voleri" },
+      "properties": { "gid": 73, "name": "Voleri", "id": "latvia-riga-voleri" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4790,7 +4790,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 72, "name": "Zasulauks", "id": "zasulauks" },
+      "properties": { "gid": 72, "name": "Zasulauks", "id": "latvia-riga-zasulauks" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4836,7 +4836,7 @@
       "properties": {
         "gid": 71,
         "name": "Ziepniekkalns",
-        "id": "ziepniekkalns"
+        "id": "latvia-riga-ziepniekkalns"
       },
       "geometry": {
         "type": "Polygon",
@@ -5013,7 +5013,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "gid": 70, "name": "Zolitūde", "id": "zolitude" },
+      "properties": { "gid": 70, "name": "Zolitūde", "id": "latvia-riga-zolitude" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
