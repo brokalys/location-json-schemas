@@ -1,6 +1,6 @@
 {
   "name": "@brokalys/location-json-schemas",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "repository": "git@github.com:brokalys/location-json-schemas.git",
   "author": "Matiss Janis Aboltins <matiss@mja.lv>",
   "license": "MIT",
