@@ -1,1 +1,3 @@
-export { default as riga } from './data/riga.json';
+const riga = require('./data/riga.json');
+
+module.exports = { riga };
