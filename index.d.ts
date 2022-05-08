@@ -1,3 +1,5 @@
+export as namespace BrokalysLocationJsonSchemas;
+
 interface BaseProperties {
   name: string;
   id: string;
