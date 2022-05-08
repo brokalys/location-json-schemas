@@ -1,12 +1,16 @@
 {
   "name": "@brokalys/location-json-schemas",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "repository": "git@github.com:brokalys/location-json-schemas.git",
   "author": "Matiss Janis Aboltins <matiss@mja.lv>",
   "license": "MIT",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
     "data/",
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "@types/geojson": "^7946.0.8"
+  }
 }
